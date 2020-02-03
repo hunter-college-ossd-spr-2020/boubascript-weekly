@@ -8,5 +8,5 @@ I like solving problems (or at least attempting to). I'm a Hunter College Daedal
 
 ### More Information
 
-I'm figuring myself out as I go. I love origami, spoken word poetry, and re-learned how to bike several months ago. Also really interested in the evolution of memes as a social phenomenon.
+I'm figuring myself out as I go. I love origami, spoken word poetry, and re-learned how to ride a bike several months ago. Also really interested in the evolution of memes as a social phenomenon.
 
