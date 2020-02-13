@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [openstreetmap.org/changeset/80970373](https://www.openstreetmap.org/changeset/80970373)    | OpenStreeMap Edit    |   Replaced School for Deaf with headquarters of the non profit organization Council on Foreign Relations. This resolved [Note #334704](https://www.openstreetmap.org/note/334704).   |
+|  3   | [openstreetmap.org/changeset/80970373](https://www.openstreetmap.org/changeset/80970373)    | OpenStreeMap Edit    |   Replaced School for Deaf with headquarters of the non profit organization Council on Foreign Relations. This resolved [Note #334704](https://www.openstreetmap.org/note/334704).   |
 |     |     |     |      |
 |     |     |     |      |
