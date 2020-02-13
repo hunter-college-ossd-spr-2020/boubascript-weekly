@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Open Source Contributions
+title: Bouba Source Contributions
 permalink: /contributions/
 ---
 
@@ -23,6 +23,6 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
+|  2   | [openstreetmap.org/changeset/80970373](https://www.openstreetmap.org/changeset/80970373)    | OpenStreeMap Edit    |   Replaced School for Deaf with headquarters of the non profit organization Council on Foreign Relations    |
 |     |     |     |      |
 |     |     |     |      |
