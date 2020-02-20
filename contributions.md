@@ -21,6 +21,8 @@ following the same syntax.
 | Week #  | Contribution (Link)  | Type  | Description |
 |:---:|:---|:---:|:---|
 | Week [n+1] |  [Coming Soon](https://xkcd.com/)   |     |      |
+| | | | |
+|  4  | [osm.org/changeset/81284103](https://www.openstreetmap.org/changeset/81284103)  |  OpenStreetMap Edit | Added two restaurants near the Southeast Corner of Lexington Avenue & 26th St: Cousins Maine Lobster and Popeyes. |
 |  4  | [osm.org/changeset/81252645](https://www.openstreetmap.org/changeset/81252645)  |  OpenStreetMap Edit | Added Citi Bike Station at Lexington Ave & E 26 St | 
 |  4  | [osm.org/changeset/81252021](https://www.openstreetmap.org/changeset/81252021)  |  OpenStreetMap Edit | Changed name from 'Brookdale Residence' to more common and widely recognized 'Brookdale Campus'. | 
 |  3  | [openstreetmap/openstreetmap-website/pull/2539](https://github.com/openstreetmap/openstreetmap-website/pull/2539) | Project Documentation | First Github Contribution! Fixed a single typo in a link, I did.  |
