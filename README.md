@@ -4,4 +4,4 @@ Weekly blogs by [Boubacar](https://github.com/boubascript) for an [Open Source S
 
 [View Blog](https://hunter-college-ossd-spr-2020.github.io/boubascript-weekly/)
 
-[boubascript's Open Source Contributions](https://hunter-college-ossd-spr-2020.github.io/boubascript-weekly/)
+[boubascript's Open Source Contributions](https://hunter-college-ossd-spr-2020.github.io/boubascript-weekly/contributions)
