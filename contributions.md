@@ -21,7 +21,8 @@ following the same syntax.
 | Week #  | Contribution (Link)  | Type  | Description |
 |:---:|:---|:---:|:---|
 | Week [n+1] |  [Coming Soon](https://xkcd.com/)   |     |      |
-|  4  | [osm.org/changeset/81084115](https://www.openstreetmap.org/changeset/81252021)  |  OpenStreetMap Edit | Changed name from 'Brookdale Residence' to more common and widely recognized 'Brookdale Campus'. | 
+|  4  | [osm.org/changeset/81252645](https://www.openstreetmap.org/changeset/81252645)  |  OpenStreetMap Edit | Added Citi Bike Station at Lexington Ave & E 26 St | 
+|  4  | [osm.org/changeset/81252021](https://www.openstreetmap.org/changeset/81252021)  |  OpenStreetMap Edit | Changed name from 'Brookdale Residence' to more common and widely recognized 'Brookdale Campus'. | 
 |  3  | [openstreetmap/openstreetmap-website/pull/2539](https://github.com/openstreetmap/openstreetmap-website/pull/2539) | Project Documentation | First Github Contribution! Fixed a single typo in a link, I did.  |
 |  3  | [osm.org/changeset/81084115](https://www.openstreetmap.org/changeset/81084115)  |  OpenStreetMap Edit | Added a 7-Eleven location at 333 E 23rd St with store information. | 
 |  3  | [osm.org/changeset/81083867](https://www.openstreetmap.org/changeset/81083867)  |  OpenStreetMap Edit | Added information for private tennis court at Brookdale Residence. | 
