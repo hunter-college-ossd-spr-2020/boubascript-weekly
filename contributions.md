@@ -21,7 +21,7 @@ following the same syntax.
 | Week #  | Contribution (Link)  | Type  | Description |
 |:---:|:---|:---:|:---|
 | Week [n+1] |  [Coming Soon](https://xkcd.com/)   |  ${contribution.type}   |  ${contribution.description}    |
-|  5  | [openstreetmap-website/pull/2542](https://github.com/openstreetmap/openstreetmap-website/pull/2542)  | Project Code: Feature | Implemented 'mailto:' link creation for email tag values in an object's data on the OSM site. Merged in 2 weeks. :tada::tada:
+|  5  | [openstreetmap-website/pull/2542](https://github.com/openstreetmap/openstreetmap-website/pull/2542)  | Project Code: Feature | First code contribution! Implemented 'mailto:' link creation for email tag values in an object's data on the OSM site. Merged in 2 weeks. :tada::tada:
 |  4  | [ElijahCano33-weekly/pull/2](https://github.com/hunter-college-ossd-spr-2020/ElijahCano33-weekly/pull/2)  |  Blog Peer Edit | Split up run on sentences and made grammar edits. |
 |  4  | [dmallia17-weekly/pull/2](https://github.com/hunter-college-ossd-spr-2020/dmallia17-weekly/pull/2)  |  Blog Peer Edit | Fixed a broken link and made wording changes. |
 |  4  | [osm.org/changeset/81284103](https://www.openstreetmap.org/changeset/81284103)  |  OpenStreetMap Edit | Added two restaurants near the Southeast Corner of Lexington Avenue & 26th St: Cousins Maine Lobster and Popeyes. |
