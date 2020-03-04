@@ -12,3 +12,4 @@ I've been meaning to create my own [personal blog](https://boubascript.github.io
 
 I'm figuring myself out as I go. I love bad puns, origami, and spoken word poetry, and I recently re-learned how to ride a bike several months ago. I'm also really interested in the evolution of memes as a social phenomenon.
 
+Unless otherwise noted, all puns intended.
