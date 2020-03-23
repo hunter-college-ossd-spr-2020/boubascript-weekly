@@ -59,7 +59,7 @@ baseurl: "/boubascript-weekly"
 #   (but you may, if you know what you are doing)
 #
 
-permalink: /:day-:title/
+permalink: /:categories/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
